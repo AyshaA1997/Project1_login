@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A959FA5E-BAFA-40F8-B57A-459C32B4B1D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DEAAD4C-642A-4E8F-BCC7-EBA9C399042B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "463747A4-335E-488A-8491-A89BCA9816E6",
+    "height": 57,
+    "width": 150,
+    "x": 111,
+    "y": 353
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "675792C9-43BC-4F69-9E3E-44C5D32A4D06",
+      "overrideName": "04995B59-6AB5-4701-A63C-514C255DDE10_stringValue",
+      "value": "Error: Incorrect Email/Password: Try Again"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1593CBD0-492F-4A7D-AD0E-FF041FD03009",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51CA2E73-93C2-40F2-BFF4-5B5F82FD0D77",
+  "verticalSpacing": 0
+}

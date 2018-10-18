@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "CE9AD967-C5C3-4DEF-89D8-2EED2AC60E58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35D89DE9-8CC1-4BA6-9F51-52E75B8139BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03F74478-D546-4438-A3B7-98C0893ECED9",
+    "height": 71,
+    "width": 321,
+    "x": 13,
+    "y": 44
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85698BAF-55F1-4B88-81FC-36F661E9341F",
+      "overrideName": "D3DF0132-3AE3-436C-B869-C0E6A32F806C_stringValue",
+      "value": "Hello, Welcome"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17A6EC73-DEFF-41CE-BE0D-9129BCA9288C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D750D84-5947-43C2-A131-AA75E4E2D78B",
+  "verticalSpacing": 0
+}

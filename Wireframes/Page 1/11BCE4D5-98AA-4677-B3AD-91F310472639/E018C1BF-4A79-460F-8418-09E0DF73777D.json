@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E018C1BF-4A79-460F-8418-09E0DF73777D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85ED6518-3B10-40A9-88A5-EFCA13A0A344",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D910F33C-C405-4E77-8987-ED1672A352A6",
+    "height": 71,
+    "width": 321,
+    "x": 13,
+    "y": 44
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85698BAF-55F1-4B88-81FC-36F661E9341F",
+      "overrideName": "D3DF0132-3AE3-436C-B869-C0E6A32F806C_stringValue",
+      "value": "Confirm Account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7AF9E2D-9242-45E1-A150-C924B814502B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D750D84-5947-43C2-A131-AA75E4E2D78B",
+  "verticalSpacing": 0
+}

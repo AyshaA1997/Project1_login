@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "205A72E8-7544-417A-85FC-688F470200E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFFDCE99-C5D5-4828-863F-4EA15440B9B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC088464-FAAE-4A9F-9F87-504AACF22AC4",
+    "height": 87,
+    "width": 352,
+    "x": 12,
+    "y": 137
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1282F689-63A3-492B-81F4-0E46BE2A944A",
+      "overrideName": "E75C52BC-15C1-48CF-9DF5-3E839B3D2A1E_stringValue",
+      "value": "User"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF705E94-4FE1-44FE-997E-9EEA7DEA4059",
+      "overrideName": "DB56C6C3-16CB-4F0F-94D8-491BC002365F_stringValue",
+      "value": "Aysha_123"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE6B4746-FABB-4B77-BA31-E4034E9BCD7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F40C652-686E-4D99-BE28-7985421B9B8D",
+  "verticalSpacing": 0
+}

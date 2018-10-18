@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B5F3FFA0-1D20-4861-9563-AD1EFCC7EFF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "647F885D-8C9A-4483-9157-5CEEA4DCEAC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8361A610-9F45-44AA-B272-BE94E426898A",
+    "height": 87,
+    "width": 352,
+    "x": 12,
+    "y": 247
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1282F689-63A3-492B-81F4-0E46BE2A944A",
+      "overrideName": "E75C52BC-15C1-48CF-9DF5-3E839B3D2A1E_stringValue",
+      "value": "New Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF705E94-4FE1-44FE-997E-9EEA7DEA4059",
+      "overrideName": "DB56C6C3-16CB-4F0F-94D8-491BC002365F_stringValue",
+      "value": "*******"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "838D0CC7-E5DE-44AB-8CD6-7F100C8FFF9B",
+      "overrideName": "41F276EE-EDA5-4FE9-9D16-D79EA2EC4608_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E405C069-47E5-4E1C-A159-90E042A8B993",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F40C652-686E-4D99-BE28-7985421B9B8D",
+  "verticalSpacing": 0
+}

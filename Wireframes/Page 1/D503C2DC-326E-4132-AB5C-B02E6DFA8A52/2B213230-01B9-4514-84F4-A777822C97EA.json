@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2B213230-01B9-4514-84F4-A777822C97EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "260FF1FD-3569-4AF0-8EEE-48665EB2BB3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB14BA3A-05CE-402A-9C0D-AD7E287545E4",
+    "height": 71,
+    "width": 321,
+    "x": 12,
+    "y": 43
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49D988C5-8065-4825-9CC1-9C11F752F7F4",
+      "overrideName": "D3DF0132-3AE3-436C-B869-C0E6A32F806C_stringValue",
+      "value": "Reset Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB3258CC-CAED-4052-AABE-76B361F1599D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D750D84-5947-43C2-A131-AA75E4E2D78B",
+  "verticalSpacing": 0
+}

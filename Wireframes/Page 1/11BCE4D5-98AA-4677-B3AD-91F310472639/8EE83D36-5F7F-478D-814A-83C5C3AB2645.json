@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8EE83D36-5F7F-478D-814A-83C5C3AB2645",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18F83BDB-7B21-4EB2-8598-4EDF62209E1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92FFE81F-6C7B-460B-9197-5E13151E2259",
+    "height": 87,
+    "width": 352,
+    "x": 13,
+    "y": 134
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43D518DE-EB44-4036-ADC9-56ABECB9A7E2",
+      "overrideName": "DB56C6C3-16CB-4F0F-94D8-491BC002365F_stringValue",
+      "value": "ABCDEFG"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4884C633-14A5-4B7F-A4AD-1013CC966FC8",
+      "overrideName": "E75C52BC-15C1-48CF-9DF5-3E839B3D2A1E_stringValue",
+      "value": "Enter Code Below"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E70CFB7-3EA7-48D9-A776-7D4006E4323A",
+      "overrideName": "41F276EE-EDA5-4FE9-9D16-D79EA2EC4608_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AE75C9C-EA32-4368-BC85-9C3E2016369C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F40C652-686E-4D99-BE28-7985421B9B8D",
+  "verticalSpacing": 0
+}

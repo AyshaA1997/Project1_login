@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "68B17CB5-D4A0-49B4-9464-509A0D747922",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4A2BB16-54DB-4568-845E-39775FB2D9FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE1D09FB-113B-4DC6-B4F0-F2EBAD8EDEB8",
+    "height": 87,
+    "width": 352,
+    "x": 12,
+    "y": 449
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1282F689-63A3-492B-81F4-0E46BE2A944A",
+      "overrideName": "E75C52BC-15C1-48CF-9DF5-3E839B3D2A1E_stringValue",
+      "value": "Retype Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF705E94-4FE1-44FE-997E-9EEA7DEA4059",
+      "overrideName": "DB56C6C3-16CB-4F0F-94D8-491BC002365F_stringValue",
+      "value": "********"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "838D0CC7-E5DE-44AB-8CD6-7F100C8FFF9B",
+      "overrideName": "41F276EE-EDA5-4FE9-9D16-D79EA2EC4608_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F25B2F6-C41F-47AA-9700-F9E557CEFE6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F40C652-686E-4D99-BE28-7985421B9B8D",
+  "verticalSpacing": 0
+}

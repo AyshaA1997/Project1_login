@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "640F6EF8-41A9-41B2-89BA-AC85F5845F62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 202,
+    "y": 55
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2EF741B1-CB99-429C-9427-AD5B61F41CB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "237327D6-A923-4601-BCDB-6682B0CAB43E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CDDE846-BAFA-443C-AD1B-4051BAB90E47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "933714C3-2EC6-4439-8D79-C8DF15A48340"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "165F8249-BC89-49A8-9D14-13AD18A78DB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DDB3EE7-6478-4754-9394-FBE895C82923"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94089EB7-02D9-4FE5-A84D-363A50C03515"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05382EA1-0057-4EE5-B533-1753D9D14DDD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 3.333333333333333,
+    "guttersOutside": true,
+    "horizontalOffset": 10,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 355
+  },
+  "name": "Login Page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      88
+    ]
+  }
+}
